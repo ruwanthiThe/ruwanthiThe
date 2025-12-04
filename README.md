@@ -17,11 +17,7 @@
   <!-- Owl image floated to the right -->
   <img align="right" width="300" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl">
   
-  <ul>
-    
-    <li>🤝 I’m an undergraduate at <strong>SLIIT</strong></li>
-    <li>📫 How to reach me <strong>ruthennakoon@gmail.com</strong></li>
-  </ul>
+  
 </div>
 
 
