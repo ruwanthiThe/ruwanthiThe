@@ -5,39 +5,6 @@
 
 
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ruwanthithe" alt="ruwanthithe" />
-  </a>
-</p>
-
-<!-- Four key points with owl image on right -->
-<div>
-  <!-- Owl image floated to the right -->
-  <img align="right" width="300" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl">
-  
-  
-</div>
-
-
----
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ruwanthiThe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/ruwanthiThe">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ruwanthiThe&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="right">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ruwanthiThe&theme=dark&hide_border=true"/>
-</p>
-
 ---
 
 <h3 align="center">Languages and Tools:</h3>
